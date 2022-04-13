@@ -99,12 +99,12 @@ copy and paste the whole `<link>` tag in the `<head> </head>` of your html file.
 copy and paste the whole ```@font-face``` selector in the your main css file.  There is also the option to put the css in a `<style></style>` tag that is within the `<head><head/>` of your html file.
 ```css
 @font-face {
-  font-family: 'Montserrat-Light-Alt1';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(https://github.com/Differentunic/Montserrat-Light-Alt1/blob/main/Montserrat-Light-Alt1.woff2?raw=true) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    font-family: 'Montserrat Light Alt1';
+    src: url('https://github.com/Differentunic/Montserrat-Light-Alt1/blob/Web-Font-Fix/Montserrat-Light-Alt1.woff2?raw=true') format('woff2'),
+        url('https://github.com/Differentunic/Montserrat-Light-Alt1/blob/Web-Font-Fix/Montserrat-Light-Alt1.woff?raw=true') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
 }
 ```
 
