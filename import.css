@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Montserrat Light Alt1';
-    src: url('https://github.com/Differentunic/Montserrat-Light-Alt1/blob/main/Montserrat-Light-Alt1.woff2?raw=true') format('woff2'),
-        url('https://github.com/Differentunic/Montserrat-Light-Alt1/blob/main/Montserrat-Light-Alt1.woff?raw=true') format('woff');
+    src: url('https://github.com/Differentunic/Montserrat-Light-Alt1/blob/Web-Font-Fix/Montserrat-Light-Alt1.woff2?raw=true') format('woff2'),
+        url('https://github.com/Differentunic/Montserrat-Light-Alt1/blob/Web-Font-Fix/Montserrat-Light-Alt1.woff?raw=true') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
